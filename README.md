@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Saraf Samly
 
 
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)   <br />                                              
+                                            
 - 🌱 I’m currently learning DSA<br />
 - 🤔 I’m looking for help with Placements in FAANG<br />
 - 💬 Ask me about Tech<br />
