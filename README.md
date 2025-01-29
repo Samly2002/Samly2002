@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Saraf Samly
-BICT Hons. in Software Technology @ University of Sri Jayawardenapura
 
-                                            
+BICT Hons. in Software Technology @ University of Sri Jayawardenapura
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                            
 - 🌱 I’m currently learning Full Stack Development<br />
 - 🤔 I’m looking to collaborate on Web Application Development<br />
 - 💬 Ask me about Tech<br />
